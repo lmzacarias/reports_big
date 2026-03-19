@@ -1,3 +1,6 @@
+
+<img width="1125" height="391" alt="image" src="https://github.com/user-attachments/assets/9fb55636-826a-4926-a377-787feac1f33e" />
+
 # Arquitectura trabajada
 
 > [!NOTE]
