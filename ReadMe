@@ -192,7 +192,7 @@ Se trabajó el enfoque de RLS (*Row-Level Security*) en Power BI.
 > [!IMPORTANT]
 > - cada colegio entra al mismo reporte  
 > - el rol filtra por `school_id`  
-> - cada colegio ve solo su propia información  
+> - cada colegio ve solo su propia información
 
 ---
 
