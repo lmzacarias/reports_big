@@ -1,7 +1,7 @@
 
 <img width="1125" height="391" alt="image" src="https://github.com/user-attachments/assets/9fb55636-826a-4926-a377-787feac1f33e" />
 
-# Arquitectura trabajada
+# Reportes con POWER BI
 
 > [!NOTE]
 > Se trabajó una arquitectura en la que la información de MongoDB Atlas se llevó a BigQuery para disponer de una tabla analítica; posteriormente, esa data fue consumida desde Power BI para construir el reporte; y, finalmente, se revisó la integración con Azure + Power BI Embed para mostrar el reporte dentro de la aplicación con seguridad por colegio mediante RLS.
