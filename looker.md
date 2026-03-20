@@ -1,6 +1,5 @@
 ## Comparación de opciones Looker para el caso de colegios
 
-Enfoque: **login en la app**, **backend con `school_id`**, **embebido de la gráfica** y **aislamiento por colegio**.
 
 | Opción | ¿Se puede embeber en su app? | ¿Se puede aislar por colegio? | Cómo encaja con el flujo `login -> backend -> school_id -> gráfica` | Costo aprox con 2 analistas | Qué tan bien se acopla |
 |---|---|---|---|---|---|
