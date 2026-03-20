@@ -25,16 +25,3 @@
 - **BigQuery:** va aparte en cualquier escenario
 - **Looker / Looker Embed:** **sin precio público fijo**, requiere cotización
 
-## Conclusión
-
-Para este caso, el que **más se acopla** es **Looker Embed**.
-
-La razón es que soporta el patrón correcto:
-
-`usuario inicia sesión en su app -> backend obtiene school_id -> backend genera signed embed -> Looker muestra solo la data de ese colegio`
-
-## Links oficiales
-
-- **Looker Studio / Pro:** <https://cloud.google.com/looker-studio>
-- **Looker / Looker Embed pricing:** <https://cloud.google.com/looker/pricing>
-- **Signed embedding:** <https://docs.cloud.google.com/looker/docs/signed-embedding>
